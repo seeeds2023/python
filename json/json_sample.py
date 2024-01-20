@@ -9,7 +9,7 @@ person_json =  """
 }
 """
 
-# parse the above json:
+# parse the above json, it becomes a python dictionary:
 person_object = json.loads(person_json)
 
 # the result is a Python dictionary:
