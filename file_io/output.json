@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Murugan",
+    "salary": 60000.0,
+    "vehicles": [
+      "bicycle",
+      "motorbike",
+      "car"
+    ]
+  },
+  {
+    "name": "Ganesh",
+    "salary": 54000.0,
+    "vehicles": [
+      "motorbike",
+      "car"
+    ]
+  },
+  {
+    "name": "Siva",
+    "salary": 26400.0,
+    "vehicles": [
+      "car"
+    ]
+  },
+  {
+    "name": "Kannan",
+    "salary": 22800.0,
+    "vehicles": []
+  }
+]

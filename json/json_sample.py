@@ -1,13 +1,13 @@
 import json
 
 # Single person:
-person_json =  """
+person_json =  '''
 {
   "name": "Murugan",
-  "salary": 50000,
+  "salary": 50000
   "vehicles": [ "bicycle", "motorbike", "car" ]
 }
-"""
+'''
 
 # parse the above json, it becomes a python dictionary:
 person_object = json.loads(person_json)
