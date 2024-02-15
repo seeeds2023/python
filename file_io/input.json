@@ -2,7 +2,11 @@
     {
       "name": "Murugan",
       "salary": 50000,
-      "vehicles": [ "bicycle", "motorbike", "car" ]
+      "vehicles": [ 
+        "bicycle",
+        "motorbike", 
+        "car" 
+      ]
     },
     {
       "name": "Ganesh",
@@ -18,5 +22,56 @@
       "name": "Kannan",
       "salary": 19000,
       "vehicles": [ ]
+    },
+    {
+      "name": "John",
+      "salary": 33456,
+      "vehicles": [ 
+        "bicycle"
+      ]
+    },
+    {
+      "name": "Peter",
+      "salary": 44987,
+      "vehicles": [ "motorbike", "car" ]
+    },
+    {
+      "name": "Ralph",
+      "salary": 29876,
+      "vehicles": [ "car" ]
+    },
+    {
+      "name": "Joe",
+      "salary": 198765,
+      "vehicles": [ ]
+    },
+    {
+      "name": "Josh",
+      "salary": 55998,
+      "vehicles": [ 
+        "bicycle",
+        "motorbike", 
+        "car" 
+      ]
+    },
+    {
+      "name": "Blake",
+      "salary": 45987,
+      "vehicles": [ "motorbike", "car" ]
+    },
+    {
+      "name": "Mark",
+      "salary": 98865,
+      "vehicles": [ "car" ]
+    },
+    {
+      "name": "Parker",
+      "salary": 87769,
+      "vehicles": [ ]
+    },
+    {
+      "name": "Menon",
+      "salary": 12873,
+      "vehicles": [ "Plane" ]
     }
 ]
